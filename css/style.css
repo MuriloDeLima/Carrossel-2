@@ -6,7 +6,7 @@
 
 .carrossel .fotos {
     width: 2000%;
-    animation: animacao 10s infinite;
+    animation: animacao 20s infinite;
 }
 
 .carrossel .fotos img{
