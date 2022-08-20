@@ -15,23 +15,26 @@ width: 5%;
 
 @keyframes animacao{
 0%{margin-left: 0%;}
-20%{margin-left: 0%;}
-25%{margin-left: -100.5%;}
-30%{margin-left: -100.5%;}
-35%{margin-left: -200.5%;}
-40%{margin-left: -200.5%;}
-45%{margin-left: -300.5%;}
-50%{margin-left: -300.5%;}
-55%{margin-left: -401%;}
-60%{margin-left: -401%;}
-65%{margin-left: -501%;}
-70%{margin-left: -501%;}
-75%{margin-left: -601%;}
-80%{margin-left: -601%;}
-85%{margin-left: -701.5%;}
-90%{margin-left: -701.5%;}
-95%{margin-left: -801.8%;}
-100%{margin-left: -801.8%;}
+10%{margin-left: 0%;}
+15%{margin-left: -100.2%;}
+20%{margin-left: -100.2%;}
+25%{margin-left: -200.4%;}
+30%{margin-left: -200.4%;}
+35%{margin-left: -300.4%;}
+40%{margin-left: -300.4%;}
+45%{margin-left: -400.6%;}
+50%{margin-left: -400.6%;}
+55%{margin-left: -500.8%;}
+60%{margin-left: -500.8%;}
+65%{margin-left: -601%;}
+70%{margin-left: -601%;}
+75%{margin-left: -701.2%;}
+80%{margin-left: -701.2%;}
+85%{margin-left: -801.4%;}
+90%{margin-left: -801.4%;}
+95%{margin-left: -901.5%;}
+100%{margin-left: -901.5%;}
+
 
 
 }
