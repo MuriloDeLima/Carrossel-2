@@ -2,11 +2,21 @@
     width: 1920px;
     height: 1080px;
     overflow: hidden;
+    border-radius: 5%;
+    
+
+
+    
+    
 }
+
+
 
 .carrossel .fotos {
     width: 2000%;
     animation: animacao 20s infinite;
+    
+    
 }
 
 .carrossel .fotos img{
@@ -15,25 +25,27 @@ width: 5%;
 
 @keyframes animacao{
 0%{margin-left: 0%;}
-10%{margin-left: 0%;}
-15%{margin-left: -100.2%;}
-20%{margin-left: -100.2%;}
-25%{margin-left: -200.4%;}
-30%{margin-left: -200.4%;}
-35%{margin-left: -300.4%;}
-40%{margin-left: -300.4%;}
-45%{margin-left: -400.6%;}
-50%{margin-left: -400.6%;}
-55%{margin-left: -500.8%;}
-60%{margin-left: -500.8%;}
-65%{margin-left: -601%;}
-70%{margin-left: -601%;}
-75%{margin-left: -701.2%;}
-80%{margin-left: -701.2%;}
-85%{margin-left: -801.4%;}
-90%{margin-left: -801.4%;}
-95%{margin-left: -901.5%;}
-100%{margin-left: -901.5%;}
+4.76%{margin-left: 0%;}
+9.52%{margin-left: -100.2%;}
+14.28%{margin-left: -100.2%;}
+19.04%{margin-left: -200.4%;}
+23.8%{margin-left: -200.4%;}
+28.56%{margin-left: -300.4%;}
+33.32%{margin-left: -300.4%;}
+38.08%{margin-left: -400.6%;}
+42.84%{margin-left: -400.6%;}
+47.6%{margin-left: -500.8%;}
+52.36%{margin-left: -500.8%;}
+57.12%{margin-left: -601%;}
+61.88%{margin-left: -601%;}
+66.64%{margin-left: -701.2%;}
+71.4%{margin-left: -701.2%;}
+76.16%{margin-left: -801.4%;}
+80.92%{margin-left: -801.4%;}
+85.68%{margin-left: -901.7%;}
+95.44%{margin-left: -901.7%;}
+100%{margin-left: -1002%;}
+
 
 
 
