@@ -1,13 +1,20 @@
 .carrossel{
-    width: 1920px;
-    height: 1080px;
+    width: 600px;
+    height: 300px;
     overflow: hidden;
-    border-radius: 5%;
+    border-radius: 25px;
+    position: absolute;
+    left: 380px;
+    top: 180px;
     
 
 
     
     
+}
+
+body{
+    background-color: #1d1a1a;
 }
 
 
@@ -25,29 +32,40 @@ width: 5%;
 
 @keyframes animacao{
 0%{margin-left: 0%;}
-4.76%{margin-left: 0%;}
-9.52%{margin-left: -100.2%;}
-14.28%{margin-left: -100.2%;}
-19.04%{margin-left: -200.4%;}
-23.8%{margin-left: -200.4%;}
-28.56%{margin-left: -300.4%;}
-33.32%{margin-left: -300.4%;}
-38.08%{margin-left: -400.6%;}
-42.84%{margin-left: -400.6%;}
-47.6%{margin-left: -500.8%;}
-52.36%{margin-left: -500.8%;}
-57.12%{margin-left: -601%;}
-61.88%{margin-left: -601%;}
-66.64%{margin-left: -701.2%;}
-71.4%{margin-left: -701.2%;}
-76.16%{margin-left: -801.4%;}
-80.92%{margin-left: -801.4%;}
-85.68%{margin-left: -901.7%;}
-95.44%{margin-left: -901.7%;}
-100%{margin-left: -1002%;}
+6.7%{margin-left: 0%;}
+10.1%{margin-left: -101%;}
+16.8%{margin-left: -101%;}
+20.2%{margin-left: -201.5%;}
+26.9%{margin-left: -201.5%;}
+30.3%{margin-left: -302%;}
+37%{margin-left: -302%;}
+40.4%{margin-left: -402.5%;}
+47.1%{margin-left: -402.5%;}
+50.5%{margin-left: -503%;}
+57.2%{margin-left: -503%;}
+60.6%{margin-left: -603.5%;}
+67.3%{margin-left: -603.5%;}
+70.7%{margin-left: -704%;}
+77.4%{margin-left: -704%;}
+80.8%{margin-left: -805%;}
+87.5%{margin-left: -805%;}
+90.9%{margin-left: -905.5%;}
+97.6%{margin-left: -905.5%;}
+100%{margin-left: -1006%;}
 
 
 
 
 }
+
+.text{
+    text-align: center;
+    position: absolute;
+    left: 470px;
+    font-size: 70px;
+    color: #dbcece;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+    
+    
 
